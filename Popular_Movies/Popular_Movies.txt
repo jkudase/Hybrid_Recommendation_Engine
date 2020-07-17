@@ -1,0 +1,29 @@
+----- Most Popular Movie -----
+Star Wars (1977)
+
+----- Most Watched Movie -----
+Star Wars (1977)
+
+----- Most Watched Genre -----
+Drama
+
+----- Popular Movie By Genre -----
+unknown : unknown
+Action : Star Wars (1977)
+Adventure : Star Wars (1977)
+Animation : Toy Story (1995)
+Children : Toy Story (1995)
+Comedy : Toy Story (1995)
+Crime : Fargo (1996)
+Documentary : Hoop Dreams (1994)
+Drama : Fargo (1996)
+Fantasy : E.T. the Extra-Terrestrial (1982)
+Film-Noir : L.A. Confidential (1997)
+Horror : Scream (1996)
+Musical : Wizard of Oz, The (1939)
+Mystery : L.A. Confidential (1997)
+Romance : Star Wars (1977)
+Sci-Fi : Star Wars (1977)
+Thriller : Fargo (1996)
+War : Star Wars (1977)
+Western : Dances with Wolves (1990)

@@ -1,0 +1,88 @@
+
+MOVIE NAME:The Godfather 
+IMDb RATING:9.2
+GENRE:Crime, Drama
+ACTORS:Marlon Brando, Al Pacino, James Caan, Richard S. Castellano
+DIRECTOR:Francis Ford Coppola
+PLOT:The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.
+
+
+MOVIE NAME:The Godfather Part II 
+IMDb RATING:9.0
+GENRE:Crime, Drama
+ACTORS:Al Pacino, Robert Duvall, Diane Keaton, Robert De Niro
+DIRECTOR:Francis Ford Coppola
+PLOT:The early life and career of Vito Corleone in 1920s New York is portrayed while his son, Michael, expands and tightens his grip on the family crime syndicate.
+
+
+MOVIE NAME:Pulp Fiction 
+IMDb RATING:8.9
+GENRE:Crime, Drama
+ACTORS:Tim Roth, Amanda Plummer, Laura Lovelace, John Travolta
+DIRECTOR:Quentin Tarantino
+PLOT:The lives of two mob hit men, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.
+
+
+MOVIE NAME:12 Angry Men 
+IMDb RATING:8.9
+GENRE:Crime, Drama
+ACTORS:Martin Balsam, John Fiedler, Lee J. Cobb, E.G. Marshall
+DIRECTOR:Sidney Lumet
+PLOT:A jury holdout attempts to prevent a miscarriage of justice by forcing his colleagues to reconsider the evidence.
+
+
+MOVIE NAME:Inception
+IMDb RATING:8.8
+GENRE:Action, Adventure, Sci-Fi
+ACTORS:Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy
+DIRECTOR:Christopher Nolan
+PLOT:A thief, who steals corporate secrets through use of dream-sharing technology, is given the inverse task of planting an idea into the mind of a CEO.
+
+
+MOVIE NAME:The Matrix 
+IMDb RATING:8.7
+GENRE:Action, Sci-Fi
+ACTORS:Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+DIRECTOR:Lana Wachowski, Lilly Wachowski
+PLOT:A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+
+
+MOVIE NAME:The Lord of the Rings The Two Towers 
+IMDb RATING:8.7
+GENRE:Adventure, Drama, Fantasy
+ACTORS:Bruce Allpress, Sean Astin, John Bach, Sala Baker
+DIRECTOR:Peter Jackson
+PLOT:While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.
+
+
+MOVIE NAME:One Flew Over the Cuckoo's Nest 
+IMDb RATING:8.7
+GENRE:Drama
+ACTORS:Michael Berryman, Peter Brocco, Dean R. Brooks, Alonzo Brown
+DIRECTOR:Milos Forman
+PLOT:A criminal pleads insanity after getting into trouble again and once in the mental institution rebels against the oppressive nurse and rallies up the scared patients.
+
+
+MOVIE NAME:Goodfellas
+IMDb RATING:8.7
+GENRE:Biography, Crime, Drama
+ACTORS:Robert De Niro, Ray Liotta, Joe Pesci, Lorraine Bracco
+DIRECTOR:Martin Scorsese
+PLOT:Henry Hill and his friends work their way up through the mob hierarchy.
+
+
+MOVIE NAME:Se7en 
+IMDb RATING:8.6
+GENRE:Crime, Drama, Mystery
+ACTORS:Morgan Freeman, Andrew Kevin Walker, Kevin Spacey, Daniel Zacapa
+DIRECTOR:David Fincher
+PLOT:Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his modus operandi.
+
+
+MOVIE NAME:Andron 
+IMDb RATING:2.7
+GENRE:Action, Sci-Fi
+ACTORS:Leo Howard, Gale Harold, Michelle Ryan, Antonia Campbell-Hughes
+DIRECTOR:Francesco Cinquemani
+PLOT:A group of people are plunged into a dark, claustrophobic maze, where they must fight to survive, as the outside world watches.
+

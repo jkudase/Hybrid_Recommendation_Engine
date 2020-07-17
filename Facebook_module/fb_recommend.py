@@ -2,7 +2,7 @@ import json
 import tmdbsimple as tmdb
 from dateutil import parser
 from datetime import datetime, timedelta
-tmdb.API_KEY = '0fee9e05c566948369b71f0cb4e6cef6'
+tmdb.API_KEY = ''
 import requests
 from tkinter import *
 
@@ -112,7 +112,7 @@ def main_part():
                 movie = tmdb.Movies(ans_movie_id)
                 #response=movie.  similar_movies()
                 url1 = "https://api.themoviedb.org/3/movie/"
-                url2=str(ans_movie_id)+"/recommendations?api_key=0fee9e05c566948369b71f0cb4e6cef6&language=en-US&page=1"
+                url2=str(ans_movie_id)+"/recommendations?api_key="
                 url=str(url1+url2)
                 payload = "{}"
                 response = requests.request("GET", url, data=payload)
